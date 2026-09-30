@@ -1,0 +1,14 @@
+{
+  "name": "automatic-density-based",
+  "description": "Generic conservative defaults derived from measured point spacing.",
+  "processing": {
+    "clean_voxel": 0,
+    "visual_voxel": 0,
+    "visual_depth": 0,
+    "collision_voxel": 0,
+    "collision_depth": 0,
+    "collision_triangles": 80000,
+    "points_voxel": 0
+  },
+  "point_width": 0
+}

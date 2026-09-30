@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+
+# Raw scans and generated geometry are intentionally not versioned.
+*.ply
+*.pcd
+*.las
+*.laz
+*.e57
+*.obj
+*.glb
+*.gltf
+*.npz
+*.usd
+*.usda
+output*/
+reports/
